@@ -3,7 +3,6 @@ pragma solidity ^0.6.0;
 contract SimpleStorage {
     uint256 transactionid;
 
-    // This is a comment!
     struct User {
         uint256 transactionid;
         string name;
